@@ -26,7 +26,7 @@ ul{
     font-size: 18px;
     list-style: none;
     float: right;
-    margin-right: 100px;
+    margin-right: 150px;
     margin-top: -40px;
 }
 
@@ -38,6 +38,10 @@ ul li{
 li a{
     text-decoration: none;
     color: #E5E7EB;
+}
+
+a:hover{
+    color: #3882F6;
 }
 
 .main-text{
@@ -62,12 +66,18 @@ li a{
     width: 500px;
     height: 200px;
     color: #E5E7EB;
-    background-color: gray;
+    
     float: right;
-    margin-top: -200px;
+    margin-top: -250px;
     margin-bottom: 100px;
     margin-right: 300px;
 }
+
+img{
+    width: 550px;
+    height: 350px;
+}
+
 .header-img p{
     margin-left: 150px;
     margin-top: 70px;
